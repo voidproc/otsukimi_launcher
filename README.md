@@ -40,7 +40,7 @@
 
 ## ダウンロード
 
-[otsukimi_launcher.zip](https://github.com/voidproc/otsukimi_launcher/releases/download/v1.0/otsukimi_launcher.zip) (x86版)
+[otsukimi_launcher.zip](https://github.com/voidproc/otsukimi_launcher/files/488926/otsukimi_launcher.zip) (x86版)
 
 ## 開発／動作環境
 
