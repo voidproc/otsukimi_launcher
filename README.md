@@ -28,7 +28,7 @@
 
 ## プレイ動画
 
-![mov](https://youtu.be/avHcjfwyEEk)
+![https://www.youtube.com/watch?v=avHcjfwyEEk](https://www.youtube.com/watch?v=avHcjfwyEEk)
 
 ## スクリーンショット
 
