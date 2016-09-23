@@ -26,6 +26,18 @@
 * 仲間をたくさん集めていると、ロケットボーナスがたくさん入ります．
 * 荷物がたくさんあると、走るのが遅くなります．
 
+## スクリーンショット
+
+![ss1](ss1.png)
+
+![ss2](ss2.png)
+
+![ss3](ss3.png)
+
+## ダウンロード
+
+[otsukimi_launcher.zip](https://github.com/voidproc/otsukimi_launcher/releases/download/v1.0/otsukimi_launcher.zip) (x86版)
+
 ## 開発／動作環境
 
 * Windows 7 SP1 64bit
