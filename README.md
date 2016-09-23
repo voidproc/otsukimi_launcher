@@ -28,7 +28,7 @@
 
 ## プレイ動画
 
-![https://www.youtube.com/watch?v=avHcjfwyEEk](https://www.youtube.com/watch?v=avHcjfwyEEk)
+[![Otsukimi Launcher](http://img.youtube.com/vi/avHcjfwyEEk/0.jpg)](http://www.youtube.com/watch?v=avHcjfwyEEk "Otsukimi Launcher")
 
 ## スクリーンショット
 
